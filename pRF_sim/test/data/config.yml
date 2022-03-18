@@ -1,0 +1,9 @@
+bar: 
+    num_blank_steps: 30
+    num_bar_steps: 30
+    viewing_distance: 38
+    ecc: 12
+    pixels_across: 100
+    pixels_down: 100
+    thetas: [ -1,   0,  90, 180, 270,  -1]
+    screen_width: 25
